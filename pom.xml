@@ -27,5 +27,10 @@
 			<artifactId>pulse-sender</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>software.amazon.awssdk</groupId>
+			<artifactId>dynamodb</artifactId>
+			<version>2.17.40</version>
+		</dependency>
 	</dependencies>
 </project>
